@@ -1,0 +1,253 @@
+[
+    {
+        "id": "01",
+        "serviceName": "Emergency Care",
+        "serviceDetails": "A best hospital ensures that its emergency department is equipped to handle a wide array of medical emergencies promptly and effectively. From trauma care for severe injuries to urgent medical attention for sudden illnesses, the emergency room serves as the frontline of healthcare delivery. Highly trained medical staff, including emergency physicians, nurses, and paramedics, work tirelessly to assess and stabilize patients in critical condition. With state-of-the-art equipment and protocols in place, the emergency department strives to provide timely interventions, diagnostic tests, and treatments, ensuring the best possible outcomes for patients in distress.",
+        "moreServices": {
+            "moreService1": {
+                "name": "Trauma Care",
+                "details": "Rapid assessment and treatment of severe injuries, including those from accidents, falls, and other traumatic incidents.",
+                "image": "https://i.ibb.co/9tdfvGp/service01-01.jpg"
+            },
+            "moreService2": {
+                "name": "Emergency Room Services",
+                "details": "Immediate medical attention for a wide range of urgent health concerns, such as chest pain, breathing difficulties, severe pain, and sudden illnesses.",
+                "image": "https://i.ibb.co/b2sHN57/service01-02.jpg"
+            },
+            "moreService3": {
+                "name": "Urgent Medical Attention",
+                "details": "Prompt evaluation and treatment of conditions that require urgent care but may not be life-threatening.",
+                "image": "https://i.ibb.co/4114GNm/service01-03.jpg"
+            }
+        },
+        "serviceImg": "https://i.ibb.co/j45ZYVW/service01.jpg"
+    },
+    {
+        "id": "02",
+        "serviceName": "Diagnostic Imaging",
+        "serviceDetails": "Modern diagnostic imaging services play a pivotal role in the accurate diagnosis and treatment planning within a top hospital. Utilizing advanced technologies such as X-rays, CT scans, MRI scans, ultrasound, and PET scans, radiologists and imaging technicians generate detailed images of internal structures and organs. These images aid clinicians in identifying abnormalities, tumors, fractures, and other medical conditions with precision and clarity. With rapid turnaround times and meticulous attention to quality, the diagnostic imaging department serves as an indispensable resource for clinicians across various specialties, facilitating timely and accurate diagnoses for patients.",
+        "moreServices": {
+            "moreService1": {
+                "name": "X-rays",
+                "details": "Utilized for examining bones, detecting fractures, and diagnosing conditions like pneumonia.",
+                "image": "https://i.ibb.co/wgYnsgk/service02-01.jpg"
+            },
+            "moreService2": {
+                "name": "CT Scans",
+                "details": "Provides detailed cross-sectional images of the body, helpful for diagnosing conditions like tumors, internal injuries, and vascular diseases.",
+                "image": "https://i.ibb.co/rHgFMCD/service02-02.jpg"
+            },
+            "moreService3": {
+                "name": "MRI Scans",
+                "details": "Offers detailed images of soft tissues and organs, useful for diagnosing conditions such as brain tumors, spinal cord injuries, and joint disorders.",
+                "image": "https://i.ibb.co/YNzr8fV/service02-03.jpg"
+            },
+            "moreService4": {
+                "name": "Ultrasound",
+                "details": "Non-invasive imaging technique used for visualizing organs, blood flow, and developing fetuses during pregnancy.",
+                "image": "https://i.ibb.co/xH9dJL3/service02-04.png"
+            },
+            "moreService5": {
+                "name": "PET Scans",
+                "details": "Used to detect diseases at the cellular level, particularly helpful in cancer diagnosis and staging.",
+                "image": "https://i.ibb.co/Wkyv8Vh/service02-05.jpg"
+            }
+        },
+        "serviceImg": "https://i.ibb.co/LQhW44b/service02.jpg"
+    },
+    {
+        "id": "03",
+        "serviceName": "Surgery",
+        "serviceDetails": "Surgery is a cornerstone of healthcare delivery in a leading hospital, encompassing a diverse range of procedures performed by skilled surgeons and supported by dedicated surgical teams. From minimally invasive surgeries to complex interventions, the surgical department prioritizes patient safety, optimal outcomes, and innovative techniques. Equipped with state-of-the-art operating rooms, advanced surgical instruments, and cutting-edge technology, surgeons perform intricate procedures with precision and expertise. Whether it's cardiac surgery, neurosurgery, orthopedic surgery, or robotic-assisted procedures, the surgical department upholds the highest standards of care, ensuring patients receive the best possible surgical experience and postoperative care.",
+        "moreServices": {
+            "moreService1": {
+                "name": "Minimally Invasive Surgery",
+                "details": "Procedures performed through small incisions using specialized instruments and cameras, resulting in shorter recovery times and less postoperative pain.",
+                "image": "https://i.ibb.co/3vkvpNr/service03-01.jpg"
+            },
+            "moreService2": {
+                "name": "Complex Surgeries",
+                "details": "Highly skilled surgeons capable of performing intricate procedures such as organ transplants, cardiac surgeries, and neurosurgeries.",
+                "image": "https://i.ibb.co/KGT2tB9/service03-02.jpg"
+            },
+            "moreService3": {
+                "name": "Robotic Surgery",
+                "details": "Utilization of robotic systems for precision and control in surgical procedures, enhancing outcomes for patients.",
+                "image": "https://i.ibb.co/WfkVkXR/service03-03.jpg"
+            }
+        },
+        "serviceImg": "https://i.ibb.co/JvQnV4C/service03.jpg"
+    },
+    {
+        "id": "04",
+        "serviceName": "Specialized Medical Departments",
+        "serviceDetails": "Specialized medical departments within a top hospital cater to the unique needs of patients across various medical specialties, providing comprehensive care and expertise in specific areas of healthcare. Cardiology departments focus on diagnosing and treating heart conditions, offering a range of services from cardiac catheterization to heart surgery. Oncology departments specialize in cancer care, offering chemotherapy, radiation therapy, and targeted treatments. Neurology departments address disorders of the nervous system, including stroke, epilepsy, and Parkinson's disease, while orthopedic departments focus on musculoskeletal conditions and surgeries. Gastroenterology departments provide expertise in digestive disorders, liver diseases, and endoscopic procedures, ensuring patients receive specialized care tailored to their individual needs.",
+        "moreServices": {
+            "moreService1": {
+                "name": "Cardiology",
+                "details": "Diagnosis and treatment of heart conditions, including cardiac catheterization, angioplasty, and bypass surgery.",
+                "image": "https://i.ibb.co/52qSNPZ/service04-01.jpg"
+            },
+            "moreService2": {
+                "name": "Oncology",
+                "details": "Comprehensive cancer care, including chemotherapy, radiation therapy, and surgical oncology.",
+                "image": "https://i.ibb.co/YRKbsw4/service04-02.jpg"
+            },
+            "moreService3": {
+                "name": "Neurology",
+                "details": "Management of neurological disorders such as stroke, epilepsy, Parkinson's disease, and Alzheimer's disease.",
+                "image": "https://i.ibb.co/2y7wwQK/service04-03.jpg"
+            },
+            "moreService4": {
+                "name": "Orthopedics",
+                "details": "Treatment of musculoskeletal conditions, including joint replacement, spine surgery, and sports medicine.",
+                "image": "https://i.ibb.co/SKD621B/service04-04.jpg"
+            },
+            "moreService5": {
+                "name": "Gastroenterology",
+                "details": "Diagnosis and treatment of digestive disorders, including endoscopy, colonoscopy, and liver transplants",
+                "image": "https://i.ibb.co/c6Pyf5T/service04-05.jpg"
+            }
+        },
+        "serviceImg": "https://i.ibb.co/ZhxtGxh/service04.jpg"
+    },
+    {
+        "id": "05",
+        "serviceName": "Intensive Care Units (ICUs)",
+        "serviceDetails": "Intensive care units (ICUs) within a top hospital are dedicated to providing specialized care for patients with life-threatening illnesses or injuries, requiring close monitoring, advanced interventions, and round-the-clock attention. Equipped with state-of-the-art medical equipment, including ventilators, cardiac monitors, and infusion pumps, ICUs offer a high level of critical care tailored to the needs of each patient. Critical care teams comprising intensivists, nurses, respiratory therapists, and other healthcare professionals work collaboratively to stabilize patients, optimize organ function, and manage complex medical conditions. With a focus on patient safety, comfort, and recovery, ICUs strive to deliver exceptional care during times of medical crisis, ensuring the best possible outcomes for critically ill patients.",
+        "moreServices": {
+            "moreService1": {
+                "name": "Critical Care",
+                "details": "Specialized medical care for patients with life-threatening conditions or those requiring close monitoring and support.",
+                "image": "https://i.ibb.co/j4HJG31/service05-01.jpg"
+            },
+            "moreService2": {
+                "name": "Ventilator Support",
+                "details": "Mechanical ventilation for patients unable to breathe adequately on their own.",
+                "image": "https://i.ibb.co/bQh3m02/service05-02.jpg"
+            },
+            "moreService3": {
+                "name": "Continuous Monitoring",
+                "details": "Constant monitoring of vital signs, organ function, and response to treatment.",
+                "image": "https://i.ibb.co/hsJTmms/service05-03.jpg"
+            }
+        },
+        "serviceImg": "https://i.ibb.co/54q6Zgt/service05.webp"
+    },
+    {
+        "id": "06",
+        "serviceName": "Laboratory Services",
+        "serviceDetails": "Laboratory services are integral to the diagnostic process within a top hospital, providing essential testing and analysis to support clinical decision-making and patient care. From routine blood tests and urine analysis to specialized genetic testing and molecular diagnostics, the laboratory plays a vital role in detecting and monitoring a wide range of medical conditions. Skilled laboratory technologists and pathologists utilize state-of-the-art equipment and techniques to perform accurate and timely tests, generating valuable information for clinicians and patients alike. With a commitment to quality, accuracy, and innovation, the laboratory services department ensures that patients receive reliable results and personalized care tailored to their specific healthcare needs.",
+        "moreServices": {
+            "moreService1": {
+                "name": "Blood Tests",
+                "details": "Analysis of blood samples to diagnose various medical conditions, including infections, anemia, and metabolic disorders.",
+                "image": "https://i.ibb.co/9ycL4d5/service06-01.jpg"
+            },
+            "moreService2": {
+                "name": "Urine Analysis",
+                "details": "Examination of urine samples to detect kidney disorders, urinary tract infections, and other health issues.",
+                "image": "https://i.ibb.co/XWRYFmq/service06-02.jpg"
+            },
+            "moreService3": {
+                "name": "Genetic Testing",
+                "details": "Identification of genetic mutations or predispositions to certain diseases, aiding in diagnosis, treatment planning, and risk assessment.",
+                "image": "https://i.ibb.co/W6t9Lqg/service06-03.webp"
+            }
+        },
+        "serviceImg": "https://i.ibb.co/WKZSKGY/service06.jpg"
+    },
+    {
+        "id": "07",
+        "serviceName": "Rehabilitation Services",
+        "serviceDetails": "Rehabilitation services are essential for promoting recovery, restoring function, and improving quality of life for patients recovering from illness, injury, or surgery. Within a top hospital, rehabilitation programs encompass a multidisciplinary approach, including physical therapy, occupational therapy, and speech therapy, tailored to meet the individual needs of each patient. Physical therapists focus on improving mobility, strength, and coordination through targeted exercises and interventions. Occupational therapists help patients regain independence in activities of daily living, such as dressing, cooking, and driving. Speech therapists address communication disorders, swallowing difficulties, and cognitive impairments, facilitating optimal recovery and rehabilitation outcomes for patients across the lifespan.",
+        "moreServices": {
+            "moreService1": {
+                "name": "Physical Therapy",
+                "details": "Exercises and techniques to improve mobility, strength, and function after injury or surgery.",
+                "image": "https://i.ibb.co/9gk2gsJ/service07-02.jpg"
+            },
+            "moreService2": {
+                "name": "Occupational Therapy",
+                "details": "Assistance with activities of daily living and improving functional independence.",
+                "image": "https://i.ibb.co/CWKDg1F/service07-03.jpg"
+            },
+            "moreService3": {
+                "name": "Speech Therapy",
+                "details": "Evaluation and treatment of speech, language, and swallowing disorders.",
+                "image": ""
+            }
+        },
+        "serviceImg": "https://i.ibb.co/F5PzSd9/service07.jpg"
+    },
+    {
+        "id": "08",
+        "serviceName": "Mental Health Services",
+        "serviceDetails": "Mental health services within a top hospital are designed to address the complex needs of patients experiencing psychiatric disorders, emotional distress, and behavioral health challenges. Psychiatric evaluations conducted by trained clinicians help to diagnose mental health conditions and develop personalized treatment plans. Counseling and therapy services offer support and guidance to individuals and families coping with stress, trauma, and mental illness. Medication management ensures safe and effective treatment with psychiatric medications, while holistic approaches such as mindfulness, relaxation techniques, and expressive therapies promote emotional well-being and resilience. With a focus on compassion, dignity, and respect, mental health services strive to empower individuals on their journey toward recovery and healing.",
+        "moreServices": {
+            "moreService1": {
+                "name": "Psychiatric Evaluations",
+                "details": "Comprehensive assessments to diagnose mental health conditions and develop treatment plans.",
+                "image": "https://i.ibb.co/JCdpgGR/service08-01.jpg"
+            },
+            "moreService2": {
+                "name": "Counseling and Therapy",
+                "details": "Individual, group, and family therapy sessions to address emotional, behavioral, and interpersonal issues.",
+                "image": "https://i.ibb.co/8zt4C6S/service08-02.webp"
+            },
+            "moreService3": {
+                "name": "Medication Management",
+                "details": "Prescription and monitoring of psychiatric medications to manage symptoms effectively.",
+                "image": "https://i.ibb.co/k2PNXyJ/service08-03.webp"
+            }
+        },
+        "serviceImg": "https://i.ibb.co/hyQM8JW/service08.jpg"
+    },
+    {
+        "id": "09",
+        "serviceName": "Pain Management",
+        "serviceDetails": "Pain management services play a critical role in enhancing patient comfort, improving quality of life, and optimizing recovery outcomes within a top hospital. Comprehensive pain management programs encompass a range of pharmacological and non-pharmacological interventions tailored to meet the individual needs of each patient. Medications such as opioids, nonsteroidal anti-inflammatory drugs (NSAIDs), and adjuvant medications are prescribed judiciously to alleviate pain and enhance functional status. Interventional procedures such as nerve blocks, epidural injections, and radiofrequency ablation offer targeted relief for chronic pain conditions. Alternative therapies including acupuncture, massage therapy, and cognitive-behavioral techniques provide holistic approaches to pain management, promoting overall well-being and improved quality of life for patients living with pain.",
+        "moreServices": {
+            "moreService1": {
+                "name": "Medications",
+                "details": "Prescription of pain-relieving medications, including opioids, nonsteroidal anti-inflammatory drugs (NSAIDs), and muscle relaxants.",
+                "image": "https://i.ibb.co/mTqjCq9/service09-01.jpg"
+            },
+            "moreService2": {
+                "name": "Interventional Procedures",
+                "details": "Minimally invasive techniques such as nerve blocks, epidural injections, and radiofrequency ablation to alleviate pain.",
+                "image": "https://i.ibb.co/3RRPMjm/service09-02.jpg"
+            },
+            "moreService3": {
+                "name": "Alternative Therapies",
+                "details": "Non-pharmacological approaches such as acupuncture, massage therapy, and relaxation techniques to manage pain and promote well-being.",
+                "image": "https://i.ibb.co/HhNXfH1/service09-03.jpg"
+            }
+        },
+        "serviceImg": "https://i.ibb.co/grC74DV/service09.jpg"
+    },
+    {
+        "id": "10",
+        "serviceName": "Patient Education and Support Programs",
+        "serviceDetails": "Patient education and support programs within a top hospital are designed to empower individuals with the knowledge, skills, and resources needed to actively participate in their healthcare journey. Health education initiatives provide information on medical conditions, treatment options, preventive measures, and healthy lifestyle choices, enabling patients to make informed decisions about their health and well-being. Support groups offer opportunities for patients and families to connect with others facing similar challenges, share experiences, and receive emotional support and encouragement. Counseling services provide guidance on coping strategies, stress management, and adjustment to illness, fostering resilience and coping skills in the face of adversity. With a commitment to patient-centered care, these programs strive to promote health literacy, foster meaningful connections, and enhance the overall patient experience within the hospital setting.",
+        "moreServices": {
+            "moreService1": {
+                "name": "Health Education",
+                "details": "Information and resources to help patients understand their medical conditions, treatment options, and preventive measures.",
+                "image": "https://i.ibb.co/FsbvYcX/service10-01.png"
+            },
+            "moreService2": {
+                "name": "Support Groups",
+                "details": "Opportunities for patients and their families to connect with others facing similar health challenges, share experiences, and receive emotional support.",
+                "image": "https://i.ibb.co/7Whdyrv/service10-02.jpg"
+            },
+            "moreService3": {
+                "name": "Counseling Services",
+                "details": "Guidance on coping with illness, managing stress, and making lifestyle changes to improve overall health and well-being.",
+                "image": "https://i.ibb.co/DDPK4VK/service10-03.jpg"
+            }
+        },
+        "serviceImg": "https://i.ibb.co/RBRq3vk/service10.jpg"
+    }
+    
+]
