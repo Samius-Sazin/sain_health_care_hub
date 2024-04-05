@@ -37,14 +37,14 @@ function Home() {
             <h2 className='text-3xl font-bold text-[#4e9a02] my-5 underline underline-offset-4 decoration-2'>Our services</h2>
             <div className='grid gap-4 grid-cols-3'>
                 {
-                    fiveServices.map(service => <ShowServices key={service.id} service={service} handleViewdetailsButton={handleViewdetailsButton} />)
+                    fiveServices.map(service => <ShowServices key={service._id} service={service} handleViewdetailsButton={handleViewdetailsButton} />)
                 }
             </div>
 
             <h2 className='text-3xl font-bold text-[#4e9a02] my-5 mt-8 underline underline-offset-4 decoration-2'>Our Doctors</h2>
             <div className='grid gap-4 grid-cols-3'>
                 {
-                    fiveServices.map(service => <ShowServices key={service.id} service={service} handleViewdetailsButton={handleViewdetailsButton} />)
+                    fiveServices.map(service => <ShowServices key={service._id} service={service} handleViewdetailsButton={handleViewdetailsButton} />)
                 }
             </div>
         </div>

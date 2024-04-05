@@ -6,8 +6,7 @@ function ShowMoreServices(props) {
     const navigate = useNavigate();
 
     const handleViewMoreButton = () => {
-
-        navigate(`/services/${name.split(' ').join('-')}`);
+        navigate(`/services/${props.parentService_Id}/${name.split(' ').join('-')}`);
     }
 
     return (

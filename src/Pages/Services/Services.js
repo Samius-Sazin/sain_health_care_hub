@@ -22,7 +22,7 @@ function Services() {
   return (
     <div className='px-10 py-5'>
       {
-        services.map(service => <ShowAllServices key={service.id} service={service} />)
+        services.map(service => <ShowAllServices key={service._id} service={service} />)
       }
     </div>
   )

@@ -34,7 +34,7 @@ function App() {
             <Route path='/register' element={<Register />} />
 
             <Route element={<AuthMiddleware />}>
-              <Route path='/services/:serviceName' element={<ShowServicesWithDetails />} />
+              <Route path='/services/:serviceID/:serviceName' element={<ShowServicesWithDetails />} />
             </Route>
 
             <Route path='*' element={<PageNotFound />} />

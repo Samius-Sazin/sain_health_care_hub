@@ -2,7 +2,7 @@ import ShowMoreServices from '../ShowMoreServices/ShowMoreServices';
 import './ShowAllServices.css';
 
 function ShowAllServices(props) {
-    const { serviceName, serviceDetails, serviceImg, moreServices } = props.service;
+    const { _id, serviceName, serviceDetails, serviceImg, moreServices } = props.service;
     const moreServicess = [];
 
     for(let key in moreServices){
@@ -25,7 +25,7 @@ function ShowAllServices(props) {
 
             <div className='mt-3 grid gap-4 grid-cols-3 py-3 px-10'>
                 {
-                    moreServicess.map(moreService => <ShowMoreServices key={moreService.name} moreService={moreService} />)
+                    moreServicess.map(moreService => <ShowMoreServices key={moreService.name} parentService_Id={_id} moreService={moreService} />)
                 }
             </div>
         </div>

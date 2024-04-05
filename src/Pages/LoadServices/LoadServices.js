@@ -1,10 +1,10 @@
-import { useEffect, useState } from "react"
+import { useEffect, useState } from "react";
 
 const LoadServices = () => {
     const [services, setServices] = useState([]);
 
     useEffect(() => {
-        fetch('/fakeData.json')
+        fetch("http://localhost:5000/services")
             .then(res => res.json())
             .then(data => setServices(data));
     }, [])
